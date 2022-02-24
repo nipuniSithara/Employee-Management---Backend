@@ -1,0 +1,74 @@
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\Backend\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backend\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project employee\WebAPI\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\Project employee\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
